@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Comforter+Brush&display=swap');
+
+body{
+    font: normal 20px 'Amatic SC', cursive; 
+    color: black ;
+    
+}
+
+.avatar
+{
+    width : 300px; 
+    border-radius: 28px;
+    box-shadow: rgb(0, 6, 19) 4px 4px 14px;
+} 
+.info{
+    display: flex;
+    margin-bottom: 20px;
+}
+.info p {
+    color: black;
+    margin-bottom: 10;
+    
+    
+}
+
+.container{
+    width: 750px;
+margin: auto;
+
+}
+.infotxt{
+    margin-left: 20px;
+    
+}
+
+.part{
+    border-color: rgb(2, 8, 15);
+    box-shadow: rgb(2, 8, 15) 4px 4px 14px;
+    margin: 500;
+    text-align: center;
+    background-color:rgb(218, 218, 203);
+    padding-bottom: 25px;
+    
+}
+.part li{
+    
+    margin-left: 100px;
+    
+    text-align: left;
+    list-style:circle;
+    font-size: 25px;
+    padding-bottom: 15px;
+
+}
+.part p{
+    display: flex;
+    padding-left: 300px;
+    text-align: center;
+}
+
+.part td{
+    text-align: center;
+    padding-left: 85px;
+    padding-right: 85px;
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+}
